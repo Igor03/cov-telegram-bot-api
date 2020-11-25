@@ -1,0 +1,12 @@
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\bin\Debug\netcoreapp2.1\TelegramBotClient.deps.json
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\bin\Debug\netcoreapp2.1\TelegramBotClient.runtimeconfig.json
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\bin\Debug\netcoreapp2.1\TelegramBotClient.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\bin\Debug\netcoreapp2.1\TelegramBotClient.dll
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\obj\Debug\netcoreapp2.1\TelegramBotClient.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\obj\Debug\netcoreapp2.1\TelegramBotClient.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\obj\Debug\netcoreapp2.1\TelegramBotClient.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\obj\Debug\netcoreapp2.1\TelegramBotClient.AssemblyInfo.cs
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\bin\Debug\netcoreapp2.1\TelegramBotClient.pdb
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\obj\Debug\netcoreapp2.1\TelegramBotClient.dll
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\obj\Debug\netcoreapp2.1\TelegramBotClient.pdb
+C:\Users\jigor\source\repos\TelegramBotClient\TelegramBotClient\obj\Debug\netcoreapp2.1\TelegramBotClient.genruntimeconfig.cache
